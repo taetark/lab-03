@@ -9,4 +9,7 @@ class CityRepository {
 
     val cities: List<City>
         get() = _cities
+    fun addCity(city: City) {
+        _cities.add(city)
+    }
 }
