@@ -8,7 +8,11 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-Anthropic Claude AI
+
+Tool: `Anthropic Claude (Sonnet 5)`
+Date: September 2026
+Used Anthropic Claude (Sonnet 5) throughout development for:
+- Debugging & checking for errors such as { or why specific functions were throwing errors.
 
 ## Verbal Collaboration
 
